@@ -1,0 +1,31 @@
+html {
+  font-size: 16px;
+  color: #222; }
+
+.header {
+  padding-top: 3rem;
+  padding-bottom: 3rem; }
+
+.header h2 {
+  font-size: 2rem;
+  font-weight: 100;
+  text-transform: uppercase;
+  color: #555; }
+
+#docs {
+  margin-bottom: 5rem; }
+
+p {
+  letter-spacing: 0.05rem;
+  font-size: 1.2rem; }
+
+#num {
+  font-size: 2rem;
+}
+
+#message2 {
+  font-size: 1.5rem;
+  padding-top: 2rem;
+}
+
+/*# sourceMappingURL=vue.css.map */
