@@ -16,6 +16,7 @@ var app = new Vue({
 			app.number >= 500 ? app.message2 = 'At this point you may as well keep going...' : undefined
 			app.number >= 1000 ? app.message2 = '1000... Is that all you got?' : undefined
 			app.number >= 2000 ? app.message2 = 'My son\'s record is 2222!' : undefined
+			app.number >= 2223 ? app.message2 = 'Congratulation! You have out-clicked a 12 year old.' : undefined
 		},
 		reset: function() {
 			app.number = 0
